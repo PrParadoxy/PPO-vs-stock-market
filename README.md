@@ -1,8 +1,10 @@
 # Training PPO on stock market
 
-A PPO is trained on a real data from stock market. It signficantly works better than a random agent.
+A PPO is trained on a real data from stock market. 
 
-<img src="sample.png" width="900" height="600">
-
+<div align="center">
+  <img src="sample.png" alt="Description" width="600" height="300">
+</div>
 
 The next aim is to test this agent on a random data to test [Random Walk Hypothesis](https://en.wikipedia.org/wiki/Random_walk_hypothesis). 
+For now, it is shown that it works significantly better than randomly picking actions on test data.
