@@ -6,5 +6,5 @@ A PPO is trained on a real data from stock market.
   <img src="sample.png" alt="Description" width="600" height="300">
 </div>
 
-The next aim is to test this agent on a random data to test [Random Walk Hypothesis](https://en.wikipedia.org/wiki/Random_walk_hypothesis). 
-For now, it is shown that it works significantly better than randomly picking actions on test data.
+The aim is to test this agent on a random data to test [Random Walk Hypothesis](https://en.wikipedia.org/wiki/Random_walk_hypothesis). 
+For now, it is shown that it works significantly better than random agent on test data. 
